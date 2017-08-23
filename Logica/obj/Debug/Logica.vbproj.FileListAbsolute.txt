@@ -1,0 +1,36 @@
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\bin\Debug\Logica.dll
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\bin\Debug\Logica.pdb
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\bin\Debug\Logica.xml
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\bin\Debug\AccesoDatos.dll
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\bin\Debug\Configuracion.dll
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\bin\Debug\Entidades.dll
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\bin\Debug\AccesoDatos.pdb
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\bin\Debug\AccesoDatos.xml
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\bin\Debug\Configuracion.pdb
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\bin\Debug\Configuracion.xml
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\bin\Debug\Entidades.pdb
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\bin\Debug\Entidades.xml
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\obj\Debug\Logica.dll
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\obj\Debug\Logica.xml
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\Logica\obj\Debug\Logica.pdb
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\bin\Debug\Logica.dll
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\bin\Debug\Logica.pdb
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\bin\Debug\Logica.xml
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\bin\Debug\AccesoDatos.dll
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\bin\Debug\Configuracion.dll
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\bin\Debug\Entidades.dll
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\bin\Debug\AccesoDatos.pdb
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\bin\Debug\AccesoDatos.xml
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\bin\Debug\Configuracion.pdb
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\bin\Debug\Configuracion.xml
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\bin\Debug\Entidades.pdb
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\bin\Debug\Entidades.xml
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\obj\Debug\Logica.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\obj\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\obj\Debug\Logica.dll
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\obj\Debug\Logica.xml
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Logica\obj\Debug\Logica.pdb

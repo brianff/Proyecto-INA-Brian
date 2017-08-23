@@ -1,0 +1,29 @@
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\bin\Debug\ProyectoFinalBrian.exe.config
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\bin\Debug\ProyectoFinalBrian.exe
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\bin\Debug\ProyectoFinalBrian.pdb
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\bin\Debug\ProyectoFinalBrian.xml
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\obj\Debug\ProyectoFinalBrian.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\obj\Debug\ProyectoFinalBrian.frmPrincipal.resources
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\obj\Debug\ProyectoFinalBrian.Resources.resources
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\obj\Debug\ProyectoFinalBrian.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\obj\Debug\ProyectoFinalBrian.exe
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\obj\Debug\ProyectoFinalBrian.xml
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\obj\Debug\ProyectoFinalBrian.pdb
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\bin\Debug\Entidades.dll
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\bin\Debug\Logica.dll
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\bin\Debug\AccesoDatos.dll
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\bin\Debug\Configuracion.dll
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\bin\Debug\Entidades.pdb
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\bin\Debug\Entidades.xml
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\bin\Debug\Logica.pdb
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\bin\Debug\Logica.xml
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\bin\Debug\AccesoDatos.pdb
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\bin\Debug\AccesoDatos.xml
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\bin\Debug\Configuracion.pdb
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\bin\Debug\Configuracion.xml
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\obj\Debug\ProyectoFinalBrian.frmPuestos.resources
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Final\ProyectoFinalBrian\ProyectoFinalBrian\obj\Debug\ProyectoFinalBrian.frmEmpleados.resources
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\ProyectoFinalBrian\bin\Debug\ProyectoFinalBrian.exe.config
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\ProyectoFinalBrian\obj\Debug\ProyectoFinalBrian.exe
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\ProyectoFinalBrian\obj\Debug\ProyectoFinalBrian.xml
+C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\ProyectoFinalBrian\obj\Debug\ProyectoFinalBrian.pdb
