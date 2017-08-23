@@ -23,3 +23,7 @@ C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\Proy
 C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Presentacion\obj\Debug\Presentacion.frmEmpleados.resources
 C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Presentacion\obj\Debug\Presentacion.frmPrincipal.resources
 C:\Users\User\Documents\INA\4° Modulo\Proyecto Brian Fuentes\Brian Fuentes\ProyectoFinalBrian\Presentacion\obj\Debug\Presentacion.frmPuestos.resources
+C:\Users\User\Documents\GitHub\Proyecto-INA-Brian\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\User\Documents\GitHub\Proyecto-INA-Brian\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\User\Documents\GitHub\Proyecto-INA-Brian\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\User\Documents\GitHub\Proyecto-INA-Brian\Presentacion\obj\Debug\Presentacion.pdb
